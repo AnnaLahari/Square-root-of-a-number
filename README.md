@@ -27,6 +27,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
+
 ![image](https://github.com/AnnaLahari/Square-root-of-a-number/assets/149365425/5e3c964f-1b02-466b-975a-a1d5b228fa8a)
 
 
